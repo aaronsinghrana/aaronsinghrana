@@ -1,90 +1,45 @@
-# 👋 Hi, I’m Aaron
+### 👋 Hi, I’m Aaron
 
-Welcome to my GitHub profile 👨‍💻  
-I’m at an early stage of my data journey and I’m using GitHub to document my learning, practice and progress as I work towards a career in data. Everything here reflects hands-on exercises, bootcamp work and personal practice rather than finished or expert-level solutions.
-
----
-
-## 📊 What I’m Learning
-
-I’m currently building experience with:
-
-- 📄 Excel  
-- 📊 Tableau  
-- 📈 Power BI  
-- 🗄️ SQL  
-- 🐍 Python Basics  
-- 🐼 Python Pandas  
-- ☁️ Azure  
+Aspiring Data Apprentice building practical, job-ready data skills.
+I use GitHub to share learning projects and exercises that show how I approach real data problems and develop solutions.
 
 ---
 
-## 📁 What My Projects Focus On
+### 📊 Skills and Tools I’m Developing
 
-My repositories mainly include work such as:
+I’m building hands-on experience with:
 
-- 📄 Using Excel to clean data and apply formulas  
-- 📊 Creating simple Tableau dashboards to explore data  
-- 📈 Building Power BI reports to practise insights and visuals  
-- 🗄️ Writing SQL queries to answer basic business questions  
-- 🐍 Learning Python fundamentals and logic  
-- 🐼 Using Pandas to manipulate and analyse datasets  
-- ☁️ Exploring Azure data and cloud concepts  
-
----
-
-## 🧠 Skills I’m Developing
-
-Through practice and repetition, I’m developing:
-
-- 📄 Confidence working with data in Excel  
-- 📊 Understanding how visuals support decision-making  
-- 📈 Reporting basics using Power BI  
-- 🗄️ Core SQL querying skills  
-- 🐍 Problem-solving with Python  
-- 🐼 Working with DataFrames in Pandas  
-- ☁️ Awareness of cloud-based data platforms  
+* Excel for data cleaning and analysis
+* Tableau for interactive visualisations
+* Power BI for business reporting
+* SQL for querying and analysing databases
+* Python basics and Pandas for data manipulation
+* Azure fundamentals for cloud data platforms
 
 ---
 
-## 🚀 How I’m Using These Skills
+### 📁 What You’ll Find in My Repositories
 
-I use these tools to:
+My projects show how I put these tools into practice, including:
 
-- 📄 Prepare and organise messy data  
-- 📊 Explore patterns through charts and dashboards  
-- 📈 Communicate simple insights clearly  
-- 🗄️ Practise structuring and querying databases  
-- 🐍 Automate small tasks while learning Python  
-- 🐼 Analyse datasets step by step  
-- ☁️ Understand how data fits into cloud solutions  
+* Structured data cleaning and preparation in Excel
+* Dashboards and analytical visualisations in Tableau and Power BI
+* SQL queries that answer business questions
+* Python notebooks exploring core programming concepts and Pandas workflows
+* Projects that demonstrate how data can be combined, analysed and presented clearly
 
 ---
 
-## 🔨 Tools in Practice
+### 🚀 What I’m Working Towards
 
-Across my repositories, you’ll see:
+I’m focused on:
 
-- 📄 Excel exercises and practice files  
-- 📊 Tableau visual experiments  
-- 📈 Power BI learning projects  
-- 🗄️ SQL scripts and queries  
-- 🐍 Python notebooks and scripts  
-- 🐼 Pandas-based data practice  
-- ☁️ Azure labs and cloud learning tasks  
+* Strengthening analytical thinking and problem solving
+* Communicating insights through clear charts, dashboards and reports
+* Applying tools to real data sets with purpose and curiosity
+* Building a portfolio that shows consistent progress and readiness for a data apprenticeship
 
----
+Thanks for taking a look — this GitHub is where I practise, learn and build towards a career in data analysis 🚀
 
-## ✨ What This GitHub Shows
-
-This profile represents:
-
-- 📄 My learning process  
-- 📊 Curiosity about how data tells a story  
-- 📈 Willingness to practise and improve  
-- 🗄️ Growing confidence with databases  
-- 🐍 Foundations in Python  
-- 🐼 Early data analysis skills  
-- ☁️ An introduction to cloud and Azure  
-
-Thanks for taking a look — this GitHub is a snapshot of my progress as I continue learning and growing in data 🚀
+* Help you **rename or restructure repos** to better show progression
+* Write a **matching CV profile or application statement** based on this README
